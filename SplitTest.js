@@ -59,6 +59,7 @@ function eraseCookie(name) {
 var prefix = 'baliBible-escape';
 var randomNumber = {{Random Number}};
 var changes = {
+    //this where our split test redirected
     1: {
         variants: {
             1: {
